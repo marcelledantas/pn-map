@@ -4,7 +4,7 @@
 	<!-- InterSCity IP address and TCP port - do *NOT* include http protocol  -->
     <param-name>interSCityIPAddress</param-name>
     <!-- <param-value>cidadesinteligentes.lsdi.ufma.br</param-value> -->
-    <param-value>10.50.0.6:8000</param-value>
+    <param-value>cidadesinteligentes.lsdi.ufma.br/interscity/pucrio/</param-value>
   </context-param>
   <context-param>
     <param-name>gatewayIP</param-name>
@@ -25,3 +25,4 @@
   	<param-value>Bairros/RioDeJaneiro.lista</param-value>
   </context-param>
 </web-app>
+
