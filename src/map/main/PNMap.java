@@ -9,6 +9,7 @@ import main.java.application.ModelApplication;
 import map.Model.MobileObject;
 import map.Model.Region;
 
+import map.connection.HTTPConnection;
 import map.util.GeographicMap;
 import map.util.StaticLibrary;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
@@ -31,6 +32,9 @@ public class PNMap extends ModelApplication {
     private Swap swap;
     private ObjectMapper objectMapper;
 
+    static {
+        System.setProperty("http.agent", "Gluon Mobile/1.0.3");
+    }
 
     public PNMap() {
         this.objectMapper = new ObjectMapper();

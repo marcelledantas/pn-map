@@ -5,55 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f48c830e-efc4-4ce9-89b1-f68ff08a51fc" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/map/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/main/PNMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/connection/HTTPConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/connection/HTTPException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/map/connection/HTTPConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/map/connection/HTTPException.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/Model/MobileObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/Model/MobileObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/Model/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/Model/PersonSituation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/Model/Region.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/Model/Region.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/connection/HTTPConnection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/connection/HTTPException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/contextnet/MyGroupSelector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/dao/DAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/dao/UserDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/interSCity/InterSCity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/interSCity/InterSCityData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/main/MyGroupDefinerMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/util/ColorSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/util/ColorSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/util/Debug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/util/Debug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/util/GeographicMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/util/GeographicMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/util/Sequencial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/util/Sequencial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gd/util/StaticLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/util/StaticLibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/Model/MobileObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/Model/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/Model/PersonSituation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/Model/Region.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/connection/HTTPConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/connection/HTTPException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/contextnet/MyGroupSelector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/dao/DAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/dao/UserDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/interSCity/InterSCity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/interSCity/InterSCityData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/main/MyGroupDefinerMain$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/main/MyGroupDefinerMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/ColorSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/Debug.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/GeographicMap$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/GeographicMap$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/GeographicMap$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/GeographicMap$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/GeographicMap$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/GeographicMap$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/GeographicMap$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/GeographicMap$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/GeographicMap$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/GeographicMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/Sequencial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/StaticLibrary$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gd/util/StaticLibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/main/PNMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/main/PNMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/map/main/PNMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/map/main/PNMap.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,21 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/imarc/IdeaProjects/region-alert-v3.0/map-pn/src/gd/main&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.15862069&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/imarc/IdeaProjects/region-alert-v3.0/map-pn/src/map",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.15862069",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\imarc\IdeaProjects\region-alert-v3.0\map-pn\src\map" />
       <recent name="C:\Users\imarc\IdeaProjects\region-alert-v3.0\map-pn\src\gd\main" />
       <recent name="C:\Users\imarc\IdeaProjects\region-alert-v3.0\group-definer" />
       <recent name="C:\Users\imarc\IdeaProjects\region-alert-v3.0\group-definer\src\gd" />
@@ -210,7 +169,8 @@
       <workItem from="1703985764130" duration="4217000" />
       <workItem from="1703991269313" duration="5091000" />
       <workItem from="1703997408277" duration="509000" />
-      <workItem from="1704335895704" duration="3129000" />
+      <workItem from="1704335895704" duration="3266000" />
+      <workItem from="1704830615995" duration="2891000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1698175314527</created>
@@ -255,12 +215,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/map/main/PNMap.java</url>
-          <line>74</line>
+          <line>78</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/map/main/PNMap.java</url>
-          <line>72</line>
+          <line>76</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
