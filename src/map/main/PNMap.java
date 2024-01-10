@@ -9,7 +9,6 @@ import main.java.application.ModelApplication;
 import map.Model.MobileObject;
 import map.Model.Region;
 
-import map.connection.HTTPConnection;
 import map.util.GeographicMap;
 import map.util.StaticLibrary;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
@@ -39,7 +38,6 @@ public class PNMap extends ModelApplication {
     public PNMap() {
         this.objectMapper = new ObjectMapper();
         this.swap = new Swap(objectMapper);
-
 
         String workdir = "/Users/imarc/IdeaProjects/region-alert-v3.0/PN-Map/";
         String filename = "Bairros/RioDeJaneiro.lista";
