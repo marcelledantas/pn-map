@@ -39,7 +39,7 @@ public class PNMap extends ModelApplication {
         this.objectMapper = new ObjectMapper();
         this.swap = new Swap(objectMapper);
 
-        String workdir = "/Users/imarc/IdeaProjects/region-alert-v3.0/PN-Map/";
+        String workdir = "/Users/imarc/IdeaProjects/region-alert-v3.0/map-pn/";
         String filename = "Bairros/RioDeJaneiro.lista";
 
         regionList = StaticLibrary.readFilenamesFile(workdir, filename);
