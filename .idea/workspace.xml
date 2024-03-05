@@ -6,13 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f48c830e-efc4-4ce9-89b1-f68ff08a51fc" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/javascript/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/javascript/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/group-definer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/group-definer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/map/main/PNMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/main/PNMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map/util/Sequencial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/util/StaticLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/util/StaticLibrary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/map/main/PNMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/map/main/PNMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/map/util/Sequencial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/map/util/StaticLibrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/map/util/StaticLibrary.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/imarc/IdeaProjects/region-alert-v3.0/mobile-nodes&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/imarc/IdeaProjects/region-alert-v3.0/pn-map&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -181,6 +180,9 @@
       <workItem from="1706281383092" duration="2557000" />
       <workItem from="1706285034481" duration="798000" />
       <workItem from="1706286327003" duration="971000" />
+      <workItem from="1709605472876" duration="690000" />
+      <workItem from="1709606198210" duration="381000" />
+      <workItem from="1709606650426" duration="1232000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1698175314527</created>

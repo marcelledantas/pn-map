@@ -152,7 +152,7 @@ public class StaticLibrary {
 		} catch (IOException e0) {
 			try {
 				Debug.warning("Error while reading " + workdir + filename, e0);
-				workdir = "/Users/imarc/IdeaProjects/region-alert-v3.0/group-definer/";
+				workdir = "/Users/imarc/IdeaProjects/region-alert-v3.0/pn-map/";
 				br = new BufferedReader(new FileReader(workdir + filename));
 			}
 			catch (IOException e) {
